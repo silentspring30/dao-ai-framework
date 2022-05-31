@@ -18,12 +18,11 @@ Design thinking allows for bidirectional movement, this flexible process fosters
 
 Diversity, cross-disciplinary collaboration, challenging viewpoints and varied socioeconomic backgrounds in teams are highly valued and allow to develop creative solutions that are beneficial to society at large. 
 
-I'd like to propose an extension to Design Thinking by adding the following lenses to developing AI models:
+I'd like to propose an extension to Design Thinking by adding the following lenses to developing DAO AI models:
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
-- **Ethics**, this includes if various backgrounds (socioeconomic, gender and race) have been considered in the creation of this data or model, what bias exist and is it harmful?
+- **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
-
 
 
 # About Algovera DAO
@@ -46,6 +45,8 @@ A decentralized autonomous organization (DAO) is a community of people aligned b
 4. Proposal process
 5. Differentiation of non-transferable shares (voting power) and loot (monetary value but no voting power)
 6. Component driven: Minions and boosts
+
+[Moloch DAO version 3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e) will bring new features such as the ability to make changes through proposals in settings e.g. voting period. 
 
 # DAO product user experience research findings 
 
@@ -115,31 +116,32 @@ Workaround: Create new DAO, import funds and create safe minion with quorum whil
 
 2. Boost DAO with to decentralized storage such as IPFS and arweave link https://www.arweave.org/
 3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
-Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale.
+Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale. (Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.)
 
-Problem: Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.
-
-3. Proposal voting process takes too many steps and gas costs involved for each step
-Is the proposal voting process based on security? Is this based on Moloch DAO or why are there so many steps.
-Squads asked questions why. 
-
-4. Integrate snapshot for voting, cheap gasless but based on on-chain assets
-5. Are safe minions supported to ragequit or only treasury?
+3. Proposal voting process takes too many steps and gas costs involved for each step. Is the proposal voting process based on security? Is this based on Moloch DAO or why are there so many steps. Squads asked questions why. 
+4. Integrate snapshot for voting, cheap gasless but based on on-chain assets.
+5. Do safe minions support ragequit or only treasury?
 6. Could we create our own front-end to DAOhaus?
 
 
 ## Decentralized DAO framework sprint 2 [31/05/ - 03/07/2022]
-- Plan/setup further interviews with 2-3 squads
+- Plan/setup further interviews with 2 squads 
 - Share typeform with squads again and wider AI community
 - Plan design thinking sessions with community
+- Make call for diverse team for design thinking sessions
 
 # Decentralized AI DAO Framework
 ## DAOhaus foundation
-- DAOhaus 
-- DAOhaus Framework Open source
+### DAOhaus framework based on MolochDAO framework
+### Design Thinking Framework 
+### Extension Decentralized AI DAO Lenses
+Graphic
+
+## Algovera UI
+- DAO UI 
 
 ## Boosts
-- Boosts: DAOhaus wallet
+- Boosts: DAOhaus wallet - already existing
 - Boosts: DAO to DAO data sharing 
 - Boosts: DAOhaus decentralized data storage
 
@@ -147,6 +149,10 @@ Squads asked questions why.
 
 
 
-## 
+
 
 # Resources
+1. Algovera https://algovera.notion.site/algovera/Algovera-707678b772b9490097d2485db5f4a6e4
+2. DAOhaus https://daohaus.club/docs/users/intro-dao
+3. Moloch DAO V3 https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e
+
