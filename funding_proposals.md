@@ -17,7 +17,7 @@ The world produces large amounts of data. Organising, analysing and producing va
 
 ## Solution
 
-# Commercialisation: A boost to integrate DAOhaus with Oceans market place.
+### Commercialisation: A boost to integrate DAOhaus with Oceans market place.
 
 Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera can be described in three layers: (i) Community, (ii) Infrastructure (tools/libraries/integrations), and (iii) Funding & commercialisation.
 
@@ -27,7 +27,7 @@ Infrastructure for decentralized AI: We want to make it as easy as possible for 
 
 Funding for independent AI teams: Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. All of our code is open source.
 
-Commercialisation: Algovera is providing tools for datasets and AI models to publish from the DAO to marketplaces such as Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model.
+**Commercialisation: Algovera is providing tools for datasets and AI models to publish from the DAO to marketplaces such as Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model.**
 
 
 
@@ -58,25 +58,27 @@ Algovera has started working on a decentralized AI DAO Framework
 Algovera boost has taken 0 funding to date. Time has been giving on a volunteer basis.
 
 Funds will be used for:
-    Boost specification and MVP - Silentspring
-     contracts - 
-    Compensation to additional MetaCartel & RaidGuild volunteer contributors (TBA)
-
-None of this grant will be retained by the core team members. It will be spent immediately to get the product closer to shipping.
+    Boost specification and MVP proposal - silentspring
+    Definition of smart contracts - TBD
+    Compensation to algovera contributors: 
+    - silentspring
+    - web3 developers
 
 ## Help
 
-We would like to invite any and all community members who are interested in contributing to reach out in the comments below or on discord 2. meTokens needs to be a community owned protocol and we are happy to reward community members with governance tokens and additional funding in exchange for contributions. Current tasks in the pipeline include:
+We would like to invite any and all community members who are interested in contributing to join our Design Thinking sessions and/reach out to us on discord.
 
-    Integrating 3Box 2, Ceramic 1, theGraph (and building a subgraph)
-    Solidity contributions, code review, or audits of the meTokens-core codebase
-    UX Design to review or contribute to the figma boards and meTokens-interface codebase
+Current tasks in the pipeline include:
+    Advice on boost functionality spec
+    Solidity contributions, code review, or audits of the boost codebase
+    
 
-Furthermore, in the event this proposal is passed and meTokens opens a Community Contribution Offering, MetaCartel members will be included in the whitelist of contributors.
 
 ## Team
-    Richard Blythman
-    Silent spring - Kartika
+    Richard Blythman - Algovera
+    Silent spring - Algovera and DAOhaus contributor
+    Web3 developer - Oceans Contributor 
+    Web3 developer - DAOhaus contributor
     
 ## Additional Resources
 
