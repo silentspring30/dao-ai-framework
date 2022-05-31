@@ -18,7 +18,7 @@ Design thinking allows for bidirectional movement, this flexible process fosters
 
 Diversity, cross-disciplinary collaboration, challenging viewpoints and varied socioeconomic backgrounds in teams are highly valued and allow to develop creative solutions that are beneficial to society at large. 
 
-I'd like to propose an extension to Design Thinking by adding the following lenses to developing DAO AI models:
+I'd like to propose an extension to Design Thinking process by adding the following " value lenses" to the culture of Decentralized AI models and DAOs:
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
 - **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
