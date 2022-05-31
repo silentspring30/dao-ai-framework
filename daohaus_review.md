@@ -20,7 +20,7 @@ Diversity, cross-disciplinary collaboration, challenging viewpoints and varied s
 
 I'd like to propose an extension to Design Thinking by adding the following lenses to developing AI models:
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
-- **Ethics**, this includes if various backgrounds (socioeconomic, gender and race) habe been considered in the creation of this data or model, what bias exist and is it harmful?
+- **Ethics**, this includes if various backgrounds (socioeconomic, gender and race) have been considered in the creation of this data or model, what bias exist and is it harmful?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI?
 
@@ -36,7 +36,16 @@ I'd like to propose an extension to Design Thinking by adding the following lens
 
 **Funding for independent AI teams:** Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants [Program](https://docs.algovera.ai/blog/2021/12/23/Introducing%20Algovera%20AI%20x%20Web3%20Grants). Proposals are submitted on [Discourse](https://forum.algovera.ai/). We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). You can check out our full list of Squads and links to the respective DAOs [here](https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d). All of our code is open source.  
 # About DAOhaus
+DAOhaus is a community first, no-code DAO platfrom that allows to create DAOs within minutes. It is based on MolochDAO's Open source code version 2.1.
+A decentralized autonomous organization (DAO) is a community of people aligned by a common goal where decision making power is distributed and resources are collectively managed. 
 
+## MolochDAOs framework is:
+1. Simplicity, less code is more secure
+2. Treasury
+3. Members protection such as ragequit and guildkick
+4. Proposal process
+5. Differentiation of non-transferable shares (voting power) and loot (monetary value but no voting power)
+6. Component driven: Minions and boosts
 
 # DAO product user experience research findings 
 
@@ -104,7 +113,7 @@ Workaround: Create new DAO, import funds and create safe minion with quorum whil
 
 Apparently this feature of threshold of quorum is being in next DAOhaus update. Is this the case?
 
-2. Boost DAO with to decentralized storage such as IPFS and arweave
+2. Boost DAO with to decentralized storage such as IPFS and arweave link https://www.arweave.org/
 3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
 Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale.
 
