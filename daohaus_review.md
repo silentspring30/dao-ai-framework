@@ -22,7 +22,7 @@ I'd like to propose an extension to Design Thinking by adding the following lens
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
 - **Ethics**, this includes if various backgrounds (socioeconomic, gender and race) have been considered in the creation of this data or model, what bias exist and is it harmful?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
-- **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI?
+- **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
 
 
 
@@ -76,11 +76,11 @@ The main purpose for each squad is:
 - Earn dividends from datamodel 
 
 Analysis and recommendations: 
-Current squads have little experience in blockchain, DAOs and value of tokens. E.g. HAUS.
+Current squads have little experience in blockchain, DAOs and value of tokens. E.g. HAUS. and are not aware of features such as payroll etc.
 It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
 
 ### Question 3: Why are you using DAOhaus?
-The Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon) but encountered the following problems: 
+Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon) but encountered the following problems: 
 1. Jan 2022, Polygon Aragon platform issues: Polygon - transactions failures, - incorrect gas fees 
 2. Due to the urgency to get to get our squads funded, Algovera then chose DAOhaus because it performed the best on polygon.
 3. We also liked the Gnosis safe minion features.
@@ -104,14 +104,14 @@ E.g. minions, boosts e.g. training on payroll, disburse and product updates.
 
 1. Secure proposal through member voting participating threshold >66%
 Due to security issues, squads requested if it is possible to make proposals more secure by implementing a minion quorum threshold of >66% of members participation have to vote before the proposals passes. (Note: Opposite functionality of quorum that expedites voting by min. voting member participation.)
-(This would avoid a member's ability to drain the treasury)
-
+(This would avoid a member's ability to drain the treasury) 
 Safe gnosis minion can have a quorum setting however this needs to be created while summoning the gnosis safe and cannot be edited afterwards.
-We encountered following problem:
+
+- We encountered following problem: 
 Set up gnosis safe without quorum, then created a new gnosis safe with quorum but DAOhaus allowed same name and address of gnosis safe. This lead to the treasury double counting the funds. Minions cannot be deleted. 
 Workaround: Create new DAO, import funds and create safe minion with quorum while summoning it.
 
-Apparently this feature of threshold of quorum is being in next DAOhaus update. Is this the case?
+- Apparently this feature of threshold of quorum is being in next DAOhaus update. Is this the case?
 
 2. Boost DAO with to decentralized storage such as IPFS and arweave link https://www.arweave.org/
 3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
@@ -135,12 +135,17 @@ Squads asked questions why.
 
 # Decentralized AI DAO Framework
 ## DAOhaus foundation
-
-Framework builds on design thinking phases but is extended to the following:
-
-
+- DAOhaus 
+- DAOhaus Framework Open source
 
 ## Boosts
+- Boosts: DAOhaus wallet
+- Boosts: DAO to DAO data sharing 
+- Boosts: DAOhaus decentralized data storage
+
+
+
+
 
 ## 
 
