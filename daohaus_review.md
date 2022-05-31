@@ -14,9 +14,15 @@ Design Thinking involves five phases — Empathize, Define, Ideate, Prototype an
 4. Prototype or experimentation, where several solutions are developed with users to be able to manipulate and identify flaws,
 5. Test or evolution, which includes sharing the prototype with the target users to obtain observations, feedback and to further iterate.
 
-Design thinking allows for bidirectional movement, this flexible process fosters iterative exploration of solutions, continual refinement of the problem space, and increased understanding of user's latent needs (REF). 
+Design thinking allows for bidirectional movement, this flexible process fosters iterative exploration of solutions, continual refinement of the problem space, and increased understanding of user's latent needs. 
 
 Diversity, cross-disciplinary collaboration, challenging viewpoints and varied socioeconomic backgrounds in teams are highly valued and allow to develop creative solutions that are beneficial to society at large. 
+
+I'd like to propose an extension to Design Thinking by adding the following lenses to developing AI models:
+- **Community**, where the goal is to understand which communities the AI model is impacting? 
+- **Ethics**, this includes if various backgrounds (socioeconomic, gender and race) habe been considered in the creation of this data or model, what bias exist and is it harmful?
+- **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
+- **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI?
 
 
 
@@ -29,6 +35,7 @@ Diversity, cross-disciplinary collaboration, challenging viewpoints and varied s
 **Infrastructure for decentralized AI:** We want to make it as easy as possible for individuals to get from idea to deployed AI app. To achieve this, we are integrating many different technologies such as decentralized [storage](https://github.com/filecoin-project/devgrants/issues/517), compute, [marketplaces](https://port.oceanprotocol.com/t/algovera-a-decentralized-hub-for-data-scientists-in-web3-round-17/1828) and integrating environments such as [JupyterLab with MetaMask](https://www.youtube.com/watch?v=sjBYOxeHzG4).
 
 **Funding for independent AI teams:** Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants [Program](https://docs.algovera.ai/blog/2021/12/23/Introducing%20Algovera%20AI%20x%20Web3%20Grants). Proposals are submitted on [Discourse](https://forum.algovera.ai/). We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). You can check out our full list of Squads and links to the respective DAOs [here](https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d). All of our code is open source.  
+# About DAOhaus
 
 
 # DAO product user experience research findings 
@@ -122,8 +129,6 @@ Squads asked questions why.
 
 Framework builds on design thinking phases but is extended to the following:
 
-- Ethics
-- Plant-based living
 
 
 ## Boosts
