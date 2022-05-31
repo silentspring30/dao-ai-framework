@@ -8,11 +8,11 @@ Design Thinking is a framework for complex problem solving and has been widely a
 Design thinking is a non-linear, iterative process that cross-disciplinary teams use to firstly understand users and their context to address ill-defined or unknown problems. It is  particularly useful in developing products and services with a high factor of uncertainty and within a dynamic and rapidly evolving environment such as web3 - Decentralized Autonomous Organizations. 
 
 Design Thinking involves five phases — Empathize, Define, Ideate, Prototype and Test—it ([Design Thinking Phases](https://www.interaction-design.org/literature/topics/design-thinking))
-1. empathy or discovery, where the goal is to empathize with the audience for who you are designing with/for, 
-2. define or interpretation, which involves describing the point of view and needs of the individual, 
-3. ideate or ideation, that includes brainstorming to produce as many creative solutions as possible,
-4. prototype or experimentation, where several solutions are developed with users to be able to manipulate and identify flaws,
-5. test or evolution, which includes sharing the prototype with the target users to obtain observations, feedback and to further iterate.
+1. Empathy or discovery, where the goal is to empathize with the audience for who you are designing with/for, 
+2. Define or interpretation, which involves describing the point of view and needs of the individual, 
+3. Ideate or ideation, that includes brainstorming to produce as many creative solutions as possible,
+4. Prototype or experimentation, where several solutions are developed with users to be able to manipulate and identify flaws,
+5. Test or evolution, which includes sharing the prototype with the target users to obtain observations, feedback and to further iterate.
 
 Design thinking allows for bidirectional movement, this flexible process fosters iterative exploration of solutions, continual refinement of the problem space, and increased understanding of user's latent needs (REF). 
 
@@ -40,17 +40,17 @@ For a quick review, 3 qualitative interview and a qualitative typeform survey wa
 
 Summary of different interviews:
 ### Question 1: How did you develop your requirements? Did you have a set of functionality requirements or similar?
-A: High-level criteria based on our own experience with different DAO platforms, research.
+A: High-level criteria based on our own experience with different DAO platforms, desktop research, trial and error.
 
 **Criteria:**
 1. Fast, scalable and cheap voting: DAOhaus multiple network support: L2 Polygon, Gnosis chain etc. DAOhaus functions on 5 networks (Ethereum, Gnosis chain, Polygon, Arbitrum and Cello)
-2. Security, due to lack of blockchain security design pattern expertise in house: Robust safety, e.g. ability to add Gnosis safe minion and other components based boosts features. 
+2. Security, due to lack of blockchain security design pattern expertise in house: Ability to add Gnosis safe minion and other components based boosts features. 
 3. User friendly and excellent UI: Reduce friction during onboarding for data-scientists, who are not crypto-native. DAOhaus UI is slightly confusing and we like to explore if we could create own UI/front-end. Even experienced blockchain members struggled.
 
 ### Question 2: What's your intention for squads using DAOhaus?
 In order to get squads up to speed and autonomous quickly, Algovera's operations lead manually summons for each squad a DAO on DAOhaus. 
 The main purpose for each squad is:
-- Summon DAO manually, future with script
+- Summon DAO manually (future with script)
 - Manage treasury 
 - Allocate % of shares for squad members
 - Manage future funding for squad
@@ -60,62 +60,74 @@ The main purpose for each squad is:
 - Earn dividends from datamodel 
 
 Analysis and recommendations: 
-Current squads have little experience in blockchain and DAOs. 
+Current squads have little experience in blockchain, DAOs and value of tokens. E.g. HAUS.
 It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
 
 ### Question 3: Why are you using DAOhaus?
 The Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon) but encountered the following problems: 
-1. JAn 2022, Polygon Aragon platform issues: Polygon - transactions failed, - incorrect gas fees 
-2. Due to the urgency to get to get our squads funded, we then chose DAOhaus because it performed the best on polygon.
-3. Also liked safety gnosis safe minions.
+1. Jan 2022, Polygon Aragon platform issues: Polygon - transactions failures, - incorrect gas fees 
+2. Due to the urgency to get to get our squads funded, Algovera then chose DAOhaus because it performed the best on polygon.
+3. We also liked the Gnosis safe minion features.
 4. We are really happy with DAOhaus so far, it's very really reliable. The support is very fast too. There are some UX/UI points.
 
 Analysis:
-Algovera tested out various DAO platforms themselves until arriving at DAOhaus. It would be good to provide more DAOhaus tutorials videos and product updates on youtube and twitter.
+Algovera tested out various DAO platforms themselves until arriving at DAOhaus. It would be good to provide more DAOhaus tutorials videos and product updates on youtube and twitter to allow people to make a quick comparison.
 
-### Question 4: How are your squads using DAOhaus? Squads are small only 3-4 people.
+### Question 4: How are your squads using DAOhaus? Squads are small at the moment 3-4 people.
  
-1. Management of funds, main use case is: transfers to wallet to convert to FIAT and send to bank accounts.
-2. Little proposal functionality is used, 2 proposals per month.
+1. Management of funds, main use case is: Receive funds and allocate shares. 
+2. 5% Algovera, remaining shares are split among squad.
+3. Transfers to wallet to convert to FIAT and send to bank accounts.
+4. Little proposal functionality is used, 2 proposals per month.
 
 Analysis: Interestingly, DAOhaus platform is mainly used for basic DAO functionality. Further research is needed why. 
 Again: It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
-Training on payroll, disburse and product updates.
+E.g. minions, boosts e.g. training on payroll, disburse and product updates.
 
-### Question 5: What feedback do you have about DAOhaus? What specific immediate features would decentralized AI team have?
+### Question 5: Any feedback for DAOhaus, how can they improve the product? What specific immediate features would decentralized AI team have?
 
-1. Secure proposal through >66% member voting participating threshold 
+1. Secure proposal through member voting participating threshold >66%
 Due to security issues, squads requested if it is possible to make proposals more secure by implementing a minion quorum threshold of >66% of members participation have to vote before the proposals passes. (Note: Opposite functionality of quorum that expedites voting by min. voting member participation.)
+(This would avoid a member's ability to drain the treasury)
 
-1a)
 Safe gnosis minion can have a quorum setting however this needs to be created while summoning the gnosis safe and cannot be edited afterwards.
-
 We encountered following problem:
 Set up gnosis safe without quorum, then created a new gnosis safe with quorum but DAOhaus allowed same name and address of gnosis safe. This lead to the treasury double counting the funds. Minions cannot be deleted. 
 Workaround: Create new DAO, import funds and create safe minion with quorum while summoning it.
 
-1b) 
 Apparently this feature of threshold of quorum is being in next DAOhaus update. Is this the case?
 
-2. Link storage decentralized storage such as IPFS and rweave
-2. Link and publish asset from DAO wallet e.g. Ocean marketplace
+2. Boost DAO with to decentralized storage such as IPFS and arweave
+3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
 Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale.
 
-Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.
+Problem: Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.
 
 3. Proposal voting process takes too many steps and gas costs involved for each step
 Is the proposal voting process based on security? Is this based on Moloch DAO or why are there so many steps.
 Squads asked questions why. 
 
 4. Integrate snapshot for voting, cheap gasless but based on on-chain assets
-
 5. Are safe minions supported to ragequit or only treasury?
-
 6. Could we create our own front-end to DAOhaus?
 
 
-## Review sprint 2 [30/05/ - 03/06/2022]
-Evaluate findings from typeform
+## Decentralized DAO framework sprint 2 [31/05/ - 03/07/2022]
+- Plan/setup further interviews with 2-3 squads
+- Share typeform with squads again and wider AI community
+- Plan design thinking sessions with community
 
+# Decentralized AI DAO Framework
+## DAOhaus foundation
+
+Framework builds on design thinking phases but is extended to the following:
+
+- Ethics
+- Plant-based living
+
+
+## Boosts
+
+## 
 
 # Resources
