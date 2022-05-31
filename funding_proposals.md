@@ -16,31 +16,37 @@ The world produces large amounts of data. Organising, analysing and producing va
 
 
 ## Solution
-Algovera is 
+
+# Commercialisation: A boost to integrate DAOhaus with Oceans market place.
+
+Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera can be described in three layers: (i) Community, (ii) Infrastructure (tools/libraries/integrations), and (iii) Funding & commercialisation.
+
+Decentralized Ethical AI community events: We run study groups, discord community, reading groups, discussions, hacking sessions, hackathons, design thinking groups and IRL events.
+
+Infrastructure for decentralized AI: We want to make it as easy as possible for individuals to get from idea to deployed AI app. To achieve this, we are integrating many different technologies such as decentralized storage, compute, marketplaces and integrating environments such as JupyterLab with MetaMask.
+
+Funding for independent AI teams: Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. All of our code is open source.
+
+Commercialisation: Algovera is providing tools for datasets and AI models to publish from the DAO to marketplaces such as Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model.
+
+
 
 ## Overview
-## Product
 
-    Create your own meToken
-    Invest in others’ meTokens
-    Spend your portfolio of meTokens with their issuers on goods and services
-    Redeem your meTokens for their underlying collateral
-    Know that everything is economically secure
+## Product
+    Create boost 
+    DAOhaus to oceans market place
+    Publish data set
+    Publish AI model
+    Simulate AI value model with scale
+    
+    Modify AI model 
 
 ## Progress
+Algovera has started working on a decentralized AI DAO Framework
 
-
-While technically functional, the alpha revealed a significant number of opportunities for improvements, including:
-
-    Vault-AMM partitioning - coincidentally, an innovation also converged upon simultaneously in Balancer V2’s upcoming release
-    Dynamic bonding curves - a new AMM primitive which dramatically expands upon Billy Rennekamp’s original proposal from 2018
-    Governance & liquidity mining - meTokens was originally designed to avoid governance at all costs in favor of pure self-sovereignty. However, since Apr 2020, enough experiments have taken place throughout DeFi to recognize the increased efficiency and coordination that can take place when a governance token is incentivized and distributed correctly without compromising user security
-
-Each of these innovations has been rolled into a completely new version of meTokens, which is currently in the final stages of development, along with a brand new, more content rich, social dapp platform. All of which will be made open source upon release.
-Differentiation
-
-meTokens are critically different from any other personal token design because their supply and distribution is managed entirely by a custom built AMM, not a centralized issuer. The AMM ensures that all meTokens are properly collateralized with real underlying value, and that this value is predictably skewed in favor of a single address recipient - the “owner” of the meToken.
-
+- Decentralized AI DAO framework 
+- Specification and MVP for Boost for DAOhaus oceans integration
 
 
 ## Ask
@@ -49,12 +55,11 @@ meTokens are critically different from any other personal token design because t
 
 ## Funds
 
-Boost has taken 0 funding to date. Time has been donated by silentspring.
+Algovera boost has taken 0 funding to date. Time has been giving on a volunteer basis.
 
-The requested funds will serve as a bridge to launch the new, ready-for-prime-time version of meTokens. Expenses include:
-
-    Design and branding - proposal from Raid Guild members Lucas, Bingo, & Tom
-    Governance, airdrop, & liquidity mining contracts - proposal by Crypto_Unico 1
+Funds will be used for:
+    Boost specification and MVP - Silentspring
+     contracts - 
     Compensation to additional MetaCartel & RaidGuild volunteer contributors (TBA)
 
 None of this grant will be retained by the core team members. It will be spent immediately to get the product closer to shipping.
@@ -70,12 +75,11 @@ We would like to invite any and all community members who are interested in cont
 Furthermore, in the event this proposal is passed and meTokens opens a Community Contribution Offering, MetaCartel members will be included in the whitelist of contributors.
 
 ## Team
-
+    Richard Blythman
+    Silent spring - Kartika
+    
 ## Additional Resources
 
-    Collateralized Personal Token Primer 3
-    meToken Game Theory 5
-    Alpha Version of meTokens 6
-    Discord Server 2
+    Discord Server
     Twitter
 
