@@ -8,15 +8,15 @@ Metacartel proposal
 
 ### Decentralized AI Boost on top of DAOhaus
 
-A DeAI boost for DAOhaus to integrate assets such as data sets and AI models to oceans market place.
+A Decentralized AI boost for DAOhaus to integrate assets such as data sets and AI models to oceans market place.
 
 
 ## Problem
-
+The world produces large amounts of data. Organising, analysing and producing value and insights from this data has traditionally been performed by big tech companies who have the resources (data, talent & capital). The main benefactors of this value creation are a few key members of the company rather than the team that worked on the project. Centralisation of data science value creation in the hands of a few companies leads to stagnation of innovation and a lack of experimentation due to bureaucracy and a risk aversive culture.
 
 
 ## Solution
-
+Algovera is 
 
 ## Overview
 ## Product
