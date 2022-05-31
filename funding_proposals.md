@@ -58,9 +58,9 @@ Algovera has started working on a decentralized AI DAO Framework
 Algovera boost has taken 0 funding to date. Time has been giving on a volunteer basis.
 
 Funds will be used for:
-    Boost specification and MVP proposal - silentspring
-    Definition of smart contracts - TBD
-    Compensation to algovera contributors: 
+    - Boost specification and MVP proposal - silentspring
+    - Definition of smart contracts - TBD
+    - Compensation to algovera contributors: 
     - silentspring
     - web3 developers
 
