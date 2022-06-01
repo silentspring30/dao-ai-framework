@@ -5,7 +5,7 @@ This is a user experience design review of how Algovera DAO is currently using D
 # Approach
 Design Thinking is a framework for complex problem solving and has been widely applied by various disciplines e.g. Digital Product, Healthcare and Social innovation. As a methodology it has been popularized by [Tim Brown](https://designthinking.ideo.com/), founder of IDEO since 1978.
  
-Design thinking is a non-linear, iterative process that cross-disciplinary teams use to firstly understand users and their context to address ill-defined or unknown problems. It is  particularly useful in developing products and services with a high factor of uncertainty and within a dynamic and rapidly evolving environment such as web3 - Decentralized Autonomous Organizations. 
+Design thinking is a non-linear, iterative process that cross-disciplinary teams use to firstly understand users and their context to address ill-defined or unknown problems. It is  particularly useful in developing products and services with a high factor of uncertainty and within a dynamic and rapidly evolving environment such as web3 specificly: for the development of a Decentralized Autonomous Organizations Framework for Decentralized Artificial Intelligence.
 
 Design Thinking involves five phases — Empathize, Define, Ideate, Prototype and Test—it ([Design Thinking Phases](https://www.interaction-design.org/literature/topics/design-thinking))
 1. Empathy or discovery, where the goal is to empathize with the audience for who you are designing with/for, 
@@ -18,7 +18,7 @@ Design thinking allows for bidirectional movement, this flexible process fosters
 
 Diversity, cross-disciplinary collaboration, challenging viewpoints and varied socioeconomic backgrounds in teams are highly valued and allow to develop creative solutions that are beneficial to society at large. 
 
-I'd like to propose an extension to Design Thinking process by adding the following " value lenses" to the culture of Decentralized AI models and DAOs:
+I'd like to propose an extension to the Design Thinking process by adding the following "lenses" to Decentralized AI models and DAOs:
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
 - **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
