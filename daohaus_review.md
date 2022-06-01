@@ -1,3 +1,5 @@
+# Development of a Decentralized AI DAO framework
+
 # Introduction
 
 This is a user experience design review of how Algovera DAO is currently using DAOhaus. It forms the basis of continuous research, development, prototyping and assumptions testing for a decentralized AI DAO framework. For the development of a Decentralized AI DAO framework, I'd like to propose to follow a [Design Thinking Framework](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf).
@@ -18,9 +20,9 @@ Design thinking allows for bidirectional movement, this flexible process fosters
 
 Diversity, cross-disciplinary collaboration, challenging viewpoints and varied socioeconomic backgrounds in teams are highly valued and allow to develop creative solutions that are beneficial to society at large. 
 
-I'd like to propose an extension to the Design Thinking process by adding the following "lenses" to Decentralized AI models and DAOs:
+I'd like to propose an extension to the Design Thinking process by adding the following assumption testing "lenses" to Decentralized AI models and DAOs:
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
-- **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful?
+- **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful? Can it be deployed? Should it be disabled?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
 
@@ -33,7 +35,9 @@ I'd like to propose an extension to the Design Thinking process by adding the fo
 
 **Infrastructure for decentralized AI:** We want to make it as easy as possible for individuals to get from idea to deployed AI app. To achieve this, we are integrating many different technologies such as decentralized [storage](https://github.com/filecoin-project/devgrants/issues/517), compute, [marketplaces](https://port.oceanprotocol.com/t/algovera-a-decentralized-hub-for-data-scientists-in-web3-round-17/1828) and integrating environments such as [JupyterLab with MetaMask](https://www.youtube.com/watch?v=sjBYOxeHzG4).
 
-**Funding for independent AI teams:** Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants [Program](https://docs.algovera.ai/blog/2021/12/23/Introducing%20Algovera%20AI%20x%20Web3%20Grants). Proposals are submitted on [Discourse](https://forum.algovera.ai/). We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). You can check out our full list of Squads and links to the respective DAOs [here](https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d). All of our code is open source.  
+**Funding for independent AI teams:** Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants [Program](https://docs.algovera.ai/blog/2021/12/23/Introducing%20Algovera%20AI%20x%20Web3%20Grants). Proposals are submitted on [Discourse](https://forum.algovera.ai/). We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs [here](https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d). We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
+
+
 # About DAOhaus
 DAOhaus is a community first, no-code DAO platfrom that allows to create DAOs within minutes. It is based on MolochDAO's Open source code version 2.1.
 A decentralized autonomous organization (DAO) is a community of people aligned by a common goal where decision making power is distributed and resources are collectively managed. 
