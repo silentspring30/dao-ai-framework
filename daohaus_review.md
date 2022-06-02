@@ -122,10 +122,15 @@ Workaround: Create new DAO, import funds and create safe minion with quorum whil
 3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
 Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale. (Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.)
 
-3. Proposal voting process takes too many steps and gas costs involved for each step. Is the proposal voting process based on security? Is this based on Moloch DAO or why are there so many steps. Squads asked questions why. 
-4. Integrate snapshot for voting, cheap gasless but based on on-chain assets.
-5. Do safe minions support ragequit or only treasury?
-6. Could we create our own front-end to DAOhaus?
+3. Proposal voting process takes too many steps and gas costs involved for each step. Is the proposal voting process based on security? 
+Based on security.
+
+5. Integrate snapshot for voting, cheap gasless but based on on-chain assets.
+Boost by DAOhaus, Snapshot Proposals
+Snapshot is a popular gasless signal voting solution, used by projects such as Yearn, Balancer, Sushi. The Boost allows you to obtain signals via Snapshot from members for time-sensitive proposals. If you already have a Snapshot space set up, link the Snapshot space, and start running signal proposals
+
+6. Do safe minions support ragequit or only treasury?
+7. Could we create our own front-end to DAOhaus?
 
 
 ## Decentralized DAO framework sprint 2 [31/05/ - 03/07/2022]
