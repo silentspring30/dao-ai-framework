@@ -14,10 +14,12 @@ Algovera is a collective of diverse people working to facilitate and accelerate 
 
 We would like to explore a boost to integrate DAOhaus with Oceans market place. 
 This boost falls under **(i) Commercialisation & Funding:** layer.
-Algovera is providing tools for datasets and AI models to publish from a DAO to marketplaces such as Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and way towards sustainable funding.
+
+### (i) Commercialisation:
+Algovera is providing advice & tools on sustainable revenue AI models. E.g. publish datasets and AI models to marketplaces e.g. Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and way towards sustainable funding.
 
 Algovera's further layers are described the following:
-**Funding** for independent AI teams: Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
+### (i) Funding for independent AI teams: Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
 ### (ii) Decentralized Ethical AI community events: 
 We run study groups, discord community, reading groups, discussions, hacking sessions, hackathons, design thinking groups and IRL events.
