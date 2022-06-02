@@ -33,6 +33,7 @@ We want to make it as easy as possible for individuals to get from idea to deplo
 ## Overview
 
 ## Product Boost 
+    DAOhaus ability to store datasets and AI models
     DAOhaus connect to oceans market place
     Publish data set
     Publish AI model
