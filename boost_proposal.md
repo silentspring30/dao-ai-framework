@@ -1,7 +1,7 @@
 
 ### Decentralized AI to Ocean marketplace DAOhaus boost
 
-A boost for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [oceans market place](https://oceanprotocol.com/) and earn royalities for the DAO members.
+A boost for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [Oceanprotocol marketplace](https://oceanprotocol.com/) and earn royalities for the DAO members.
 
 
 ## Problem
@@ -12,7 +12,7 @@ The world produces large amounts of data. Organising, analysing and producing va
 
 Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera Decentralized AI DAO framework can be described in three layers: (i) Web3 Commercialisation Models & Funding, (ii) Community, and (iii) Infrastructure (tools/libraries/integrations).
 
-        We would like to explore a boost to integrate DAOhaus with Oceans market place. 
+        We would like to explore a boost to integrate DAOhaus with Oceans marketplace. 
         This boost falls under **(i) Commercialisation & Funding:** layer.
 
 ### (i) Commercialisation and Funding for independent AI teams: 
@@ -32,7 +32,7 @@ We want to make it as easy as possible for individuals to get from idea to deplo
 
 ## Overview
 
-## Product Boost 
+## Boost 
     DAOhaus ability to store datasets and AI models
     DAOhaus connect to oceans market place
     Publish data set
@@ -54,10 +54,11 @@ Current tasks in the pipeline include:
 
 
 ## Team
-    Richard - Algovera
+    Richard - Algovera - Oceans Ambassador
     Hithesh - Algovera
     Silentspring - Algovera and DAOhaus contributor
-    
+    Oceans Contributor
+    Solidity Developer
    
     
 ## Resources
