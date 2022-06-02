@@ -53,15 +53,16 @@ Current tasks in the pipeline include:
 
 
 ## Team
-    Richard Blythman - Algovera
-    Silentspring - Algovera and DAOhaus contributor
+    Richard - Algovera
     Hithesh - Algovera
+    Silentspring - Algovera and DAOhaus contributor
+    
    
     
 ## Resources
-[Algovera] (https://algovera.notion.site/algovera/Algovera-707678b772b9490097d2485db5f4a6e4)
-[Algovera Decentralized AI DAO introduction and DAOhaus review] and (https://github.com/silentspring30/dao-ai-framework/blob/4cc7b1a8b8166af9a13783e32cc53f4009a30375/daohaus_review.md)
-[DAOhaus] (https://daohaus.club/docs/users/intro-dao)
-[Moloch DAO V3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e)
+- [Algovera] (https://algovera.notion.site/algovera/Algovera-707678b772b9490097d2485db5f4a6e4)
+- [Algovera Decentralized AI DAO introduction and DAOhaus review] and (https://github.com/silentspring30/dao-ai-framework/blob/4cc7b1a8b8166af9a13783e32cc53f4009a30375/daohaus_review.md)
+- [DAOhaus] (https://daohaus.club/docs/users/intro-dao)
+- [Moloch DAO V3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e)
 
 
