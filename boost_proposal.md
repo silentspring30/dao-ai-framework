@@ -1,7 +1,7 @@
 
 ### Decentralized AI to Ocean marketplace DAOhaus boost
 
-A boost for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to oceans market place and earn royalities for the DAO members.
+A boost for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [oceans market place](https://oceanprotocol.com/) and earn royalities for the DAO members.
 
 
 ## Problem
@@ -65,5 +65,5 @@ Current tasks in the pipeline include:
 - [Algovera Decentralized AI DAO introduction and DAOhaus review] and (https://github.com/silentspring30/dao-ai-framework/blob/4cc7b1a8b8166af9a13783e32cc53f4009a30375/daohaus_review.md)
 - [DAOhaus] (https://daohaus.club/docs/users/intro-dao)
 - [Moloch DAO V3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e)
-
+- [Oceanprotocol](https://oceanprotocol.com/)
 
