@@ -58,7 +58,9 @@ Current tasks in the pipeline include:
     Hithesh - Algovera
    
     
-## Additional Resources
-    
-   
+## Resources
+    Algovera https://algovera.notion.site/algovera/Algovera-707678b772b9490097d2485db5f4a6e4
+    DAOhaus https://daohaus.club/docs/users/intro-dao
+    Moloch DAO V3 https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e
+
 
