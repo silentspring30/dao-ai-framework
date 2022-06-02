@@ -12,9 +12,11 @@ The world produces large amounts of data. Organising, analysing and producing va
 
 Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera Decentralized AI DAO framework can be described in three layers: (i) Web3 Commercialisation Models & Funding, (ii) Community, and (iii) Infrastructure (tools/libraries/integrations).
 
-### (i) Commercialisation: A boost to integrate DAOhaus with Oceans market place.
-Algovera is providing tools for datasets and AI models to publish from a DAO to marketplaces such as Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model.**
+We would like to explore a boost to integrate DAOhaus with Oceans market place. 
+This boost falls under **(i) Commercialisation & Funding:** layer.
+Algovera is providing tools for datasets and AI models to publish from a DAO to marketplaces such as Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and way towards sustainable funding.
 
+Algovera's further layers are described the following:
 **Funding** for independent AI teams: Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
 ### (ii) Decentralized Ethical AI community events: 
@@ -27,28 +29,20 @@ We want to make it as easy as possible for individuals to get from idea to deplo
 
 ## Overview
 
-## Product
-    Boost 
-    DAOhaus connect to oceans market place
-    Publish data set
-    Publish AI model
-    Earn tokens
-    Pull usage AI model data
+## Product Boost 
+  
+   - DAOhaus connect to oceans market place
+   - Publish data set
+   - Publish AI model
+   - Earn tokens
+   - Pull usage data model and AI model data back to DAO UI dashboard
     
   
-## Progress
-Algovera has started working on a decentralized AI DAO Framework
-
-- Decentralized AI DAO framework 
-- Specification and MVP for Boost for DAOhaus oceans integration
-
-
 ## Ask
 Could you advice us on what DAOhaus functionality and how we could develop a boost?
 
 
 ## Help
-
 We would like to invite any and all community members who are interested in contributing to join our Design Thinking sessions and/reach out to us on discord.
 
 Current tasks in the pipeline include:
@@ -59,11 +53,12 @@ Current tasks in the pipeline include:
 
 ## Team
     Richard Blythman - Algovera
-    Silent spring - Algovera and DAOhaus contributor
+    Silentspring - Algovera and DAOhaus contributor
+    Hithesh - Algovera
     Web3 developer - Oceans Contributor 
     Web3 developer - DAOhaus contributor
     
 ## Additional Resources
-    Discord Server
-    Twitter
+    
+   
 
