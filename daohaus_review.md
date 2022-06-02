@@ -141,20 +141,7 @@ Snapshot is a popular gasless signal voting solution, used by projects such as Y
 - Plan design thinking sessions with community
 - Make call for diverse team for design thinking sessions
 
-# Decentralized AI DAO Framework
-## DAOhaus foundation
-### DAOhaus framework based on MolochDAO framework
-### Design Thinking Framework 
-### Extension Decentralized AI DAO Lenses
-Graphic
 
-## Algovera UI
-- DAO UI 
-
-## Boosts
-- Boosts: DAOhaus wallet - already existing
-- Boosts: DAO to DAO data sharing 
-- Boosts: DAOhaus decentralized data storage
 
 
 
