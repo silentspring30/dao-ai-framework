@@ -57,7 +57,7 @@ A decentralized autonomous organization (DAO) is a community of people aligned b
 ## Review sprint 1 [27/05/ - 30/05/2022]
 For a quick review, 3 qualitative interview and a qualitative typeform survey was conducted.
 - Algovera team interviews
-- Squad Typeform: [Form](https://wuz5dw73wlf.typeform.com/to/ZO4OHzWi), little response was received. I will probably reach out to some squads myself for a 15min qualitative interview.
+- Squad Typeform: [Form](https://wuz5dw73wlf.typeform.com/to/ZO4OHzWi), 3 responses were received.
 
 Summary of different interviews:
 ### Question 1: How did you develop your requirements? Did you have a set of functionality requirements or similar?
@@ -91,7 +91,7 @@ Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon
 3. We also liked the Gnosis safe minion features.
 4. We are really happy with DAOhaus so far, it's very really reliable. The support is very fast too. There are some UX/UI points.
 
-Analysis:
+**Analysis**:
 Algovera tested out various DAO platforms themselves until arriving at DAOhaus. It would be good to provide more DAOhaus tutorials videos and product updates on youtube and twitter to allow people to make a quick comparison.
 
 ### Question 4: How are your squads using DAOhaus? Squads are small at the moment 3-4 people.
@@ -101,7 +101,8 @@ Algovera tested out various DAO platforms themselves until arriving at DAOhaus. 
 3. Transfers to wallet to convert to FIAT and send to bank accounts.
 4. Little proposal functionality is used, 2 proposals per month.
 
-Analysis: Interestingly, DAOhaus platform is mainly used for basic DAO functionality. Further research is needed why. 
+**Analysis**: Interestingly, DAOhaus platform is mainly used for basic DAO functionality. Further research is needed why. Squads are not used to and are not aware of functionality. Even core Algovera team is not using DAOhaus: key feeback is too complex UI.
+
 Again: It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
 E.g. minions, boosts e.g. training on payroll, disburse and product updates.
 
@@ -131,6 +132,7 @@ Snapshot is a popular gasless signal voting solution, used by projects such as Y
 
 6. Do safe minions support ragequit or only treasury?
 7. Could we create our own front-end to DAOhaus?
+
 
 
 ## Decentralized DAO framework sprint 2 [31/05/ - 03/07/2022]
