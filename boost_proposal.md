@@ -33,11 +33,11 @@ We want to make it as easy as possible for individuals to get from idea to deplo
 ## Overview
 
 ## Product Boost 
-   DAOhaus connect to oceans market place
-   Publish data set
-   Publish AI model
-   Earn tokens
-   Pull usage data model and AI model data back to DAO UI dashboard
+    DAOhaus connect to oceans market place
+    Publish data set
+    Publish AI model
+    Earn tokens
+    Pull usage data model and AI model data back to DAO UI dashboard
     
   
 ## Ask
