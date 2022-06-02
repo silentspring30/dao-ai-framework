@@ -15,12 +15,10 @@ Algovera is a collective of diverse people working to facilitate and accelerate 
 We would like to explore a boost to integrate DAOhaus with Oceans market place. 
 This boost falls under **(i) Commercialisation & Funding:** layer.
 
-### (i) Commercialisation:
+### (i) Commercialisation and Funding for independent AI teams: 
 Algovera is providing advice & tools on sustainable revenue AI models. E.g. publish datasets and AI models to Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and form a way towards sustainable revenue.
 
-Algovera's further layers can be described the following:
-
-### (i) Funding for independent AI teams: 
+Funding 
 Algovera is a community of diverse and independent AI teams (called Squads). These squads are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). 
 You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
@@ -43,11 +41,10 @@ We want to make it as easy as possible for individuals to get from idea to deplo
     
   
 ## Ask
-Could you advice us on what DAOhaus functionality and how we could develop a boost?
-
+Could you advice us on DAOhaus functionality and how we could develop a boost?
 
 ## Help
-We would like to invite any and all community members who are interested in contributing to join our Design Thinking sessions and/reach out to us on discord.
+We would like to invite, any community members who are interested in contributing to join our Design Thinking sessions and/reach out to us on discord.
 
 Current tasks in the pipeline include:
     Advice on boost functionality spec
@@ -59,8 +56,7 @@ Current tasks in the pipeline include:
     Richard Blythman - Algovera
     Silentspring - Algovera and DAOhaus contributor
     Hithesh - Algovera
-    Web3 developer - Oceans Contributor 
-    Web3 developer - DAOhaus contributor
+   
     
 ## Additional Resources
     
