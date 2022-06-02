@@ -1,10 +1,11 @@
 # Development of a Decentralized AI DAO framework
 
-# Introduction
+
+## User experience review of how Algovera is using DAOhaus
 
 This is a user experience design review of how Algovera DAO is currently using DAOhaus. It forms the basis of continuous research, development, prototyping and assumptions testing for a decentralized AI DAO framework. For the development of a Decentralized AI DAO framework, I'd like to propose to follow a [Design Thinking Framework](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf).
 
-# Approach
+## Approach
 Design Thinking is a framework for complex problem solving and has been widely applied by various disciplines e.g. Digital Product, Healthcare and Social innovation. As a methodology it has been popularized by [Tim Brown](https://designthinking.ideo.com/), founder of IDEO since 1978.
  
 Design thinking is a non-linear, iterative process that cross-disciplinary teams use to firstly understand users and their context to address ill-defined or unknown problems. It is  particularly useful in developing products and services with a high factor of uncertainty and within a dynamic and rapidly evolving environment such as web3 specificly: for the development of a Decentralized Autonomous Organizations Framework for Decentralized Artificial Intelligence.
@@ -27,7 +28,7 @@ I'd like to propose an extension to the Design Thinking process by adding the fo
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
 
 
-# About Algovera DAO
+## About Algovera DAO
 
 [Algovera](https://www.algovera.ai/) is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera can be described in three layers: (i) Community, (ii) Infrastructure (tools/libraries/integrations), and (iii) Funding & ownership.
 
@@ -38,11 +39,11 @@ I'd like to propose an extension to the Design Thinking process by adding the fo
 **Funding for independent AI teams:** Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants [Program](https://docs.algovera.ai/blog/2021/12/23/Introducing%20Algovera%20AI%20x%20Web3%20Grants). Proposals are submitted on [Discourse](https://forum.algovera.ai/). We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs [here](https://algovera.notion.site/Squads-194768658a044302a0cdc24d5d758b9d). We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
 
-# About DAOhaus
+## About DAOhaus
 DAOhaus is a community first, no-code DAO platfrom that allows to create DAOs within minutes. It is based on MolochDAO's Open source code version 2.1.
 A decentralized autonomous organization (DAO) is a community of people aligned by a common goal where decision making power is distributed and resources are collectively managed. 
 
-## MolochDAOs framework is:
+### MolochDAOs framework is:
 1. Simplicity, less code is more secure
 2. Treasury
 3. Members protection such as ragequit and guildkick
@@ -52,15 +53,15 @@ A decentralized autonomous organization (DAO) is a community of people aligned b
 
 [Moloch DAO version 3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e) will bring new features such as the ability to make changes through proposals in settings e.g. voting period. 
 
-# DAO product user experience research findings 
+## DAO product user experience research findings 
 
-## Review sprint 1 [27/05/ - 30/05/2022]
+### Review sprint 1 [27/05/ - 30/05/2022]
 For a quick review, 3 qualitative interview and a qualitative typeform survey was conducted.
 - Algovera team interviews
 - Squad Typeform: [Form](https://wuz5dw73wlf.typeform.com/to/ZO4OHzWi), 3 responses were received.
 
 Summary of different interviews:
-### Question 1: How did you develop your requirements? Did you have a set of functionality requirements or similar?
+#### Question 1: How did you develop your requirements? Did you have a set of functionality requirements or similar?
 A: High-level criteria based on our own experience with different DAO platforms, desktop research, trial and error.
 
 **Criteria:**
@@ -68,7 +69,7 @@ A: High-level criteria based on our own experience with different DAO platforms,
 2. Security, due to lack of blockchain security design pattern expertise in house: Ability to add Gnosis safe minion and other components based boosts features. 
 3. User friendly and excellent UI: Reduce friction during onboarding for data-scientists, who are not crypto-native. DAOhaus UI is slightly confusing and we like to explore if we could create own UI/front-end. Even experienced blockchain members struggled.
 
-### Question 2: What's your intention for squads using DAOhaus?
+#### Question 2: What's your intention for squads using DAOhaus?
 In order to get squads up to speed and autonomous quickly, Algovera's operations lead manually summons for each squad a DAO on DAOhaus. 
 The main purpose for each squad is:
 - Summon DAO manually (future with script)
@@ -84,7 +85,7 @@ Analysis and recommendations:
 Current squads have little experience in blockchain, DAOs and value of tokens. E.g. HAUS. and are not aware of features such as payroll etc.
 It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
 
-### Question 3: Why are you using DAOhaus?
+#### Question 3: Why are you using DAOhaus?
 Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon) but encountered the following problems: 
 1. Jan 2022, Polygon Aragon platform issues: Polygon - transactions failures, - incorrect gas fees 
 2. Due to the urgency to get to get our squads funded, Algovera then chose DAOhaus because it performed the best on polygon.
@@ -94,7 +95,7 @@ Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon
 **Analysis**:
 Algovera tested out various DAO platforms themselves until arriving at DAOhaus. It would be good to provide more DAOhaus tutorials videos and product updates on youtube and twitter to allow people to make a quick comparison.
 
-### Question 4: How are your squads using DAOhaus? Squads are small at the moment 3-4 people.
+#### Question 4: How are your squads using DAOhaus? Squads are small at the moment 3-4 people.
  
 1. Management of funds, main use case is: Receive funds and allocate shares. 
 2. 5% Algovera, remaining shares are split among squad.
@@ -106,7 +107,7 @@ Algovera tested out various DAO platforms themselves until arriving at DAOhaus. 
 Again: It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
 E.g. minions, boosts e.g. training on payroll, disburse and product updates.
 
-### Question 5: Any feedback for DAOhaus, how can they improve the product? What specific immediate features would decentralized AI team have?
+#### Question 5: Any feedback for DAOhaus, how can they improve the product? What specific immediate features would decentralized AI team have?
 
 1. Secure proposal through member voting participating threshold >66%
 Due to security issues, squads requested if it is possible to make proposals more secure by implementing a minion quorum threshold of >66% of members participation have to vote before the proposals passes. (Note: Opposite functionality of quorum that expedites voting by min. voting member participation.)
