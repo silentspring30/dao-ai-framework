@@ -16,10 +16,13 @@ We would like to explore a boost to integrate DAOhaus with Oceans market place.
 This boost falls under **(i) Commercialisation & Funding:** layer.
 
 ### (i) Commercialisation:
-Algovera is providing advice & tools on sustainable revenue AI models. E.g. publish datasets and AI models to marketplaces e.g. Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and way towards sustainable funding.
+Algovera is providing advice & tools on sustainable revenue AI models. E.g. publish datasets and AI models to Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and form a way towards sustainable revenue.
 
-Algovera's further layers are described the following:
-### (i) Funding for independent AI teams: Algovera is a community of diverse and independent AI teams (called Squads). These teams are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
+Algovera's further layers can be described the following:
+
+### (i) Funding for independent AI teams: 
+Algovera is a community of diverse and independent AI teams (called Squads). These squads are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). 
+You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
 ### (ii) Decentralized Ethical AI community events: 
 We run study groups, discord community, reading groups, discussions, hacking sessions, hackathons, design thinking groups and IRL events.
@@ -32,12 +35,11 @@ We want to make it as easy as possible for individuals to get from idea to deplo
 ## Overview
 
 ## Product Boost 
-  
-   - DAOhaus connect to oceans market place
-   - Publish data set
-   - Publish AI model
-   - Earn tokens
-   - Pull usage data model and AI model data back to DAO UI dashboard
+   DAOhaus connect to oceans market place
+   Publish data set
+   Publish AI model
+   Earn tokens
+   Pull usage data model and AI model data back to DAO UI dashboard
     
   
 ## Ask
