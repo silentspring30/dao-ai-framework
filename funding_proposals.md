@@ -1,14 +1,7 @@
-Funding proposal 
-Ocean Shipyard DAO framework proposal
-Metacartel proposal
 
-(i) the Ocean Shipyard DAO framework proposal
-(i) building from scratch on top of MolochDAO smart contracts 
-(ii) the Metacartel DAO framework proposal might be to focus on (ii) building boosts on top of DAOhaus.
+### Decentralized AI to Ocean marketplace DAOhaus boost
 
-### Decentralized AI Boost on top of DAOhaus
-
-A Decentralized AI boost for DAOhaus to integrate assets such as data sets and AI models to oceans market place.
+A Decentralized AI boost for DAOhaus to provide the ability to publish assets such as data sets and AI models to oceans market place and earn royalities from the DAO.
 
 
 ## Problem
