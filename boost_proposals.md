@@ -12,13 +12,13 @@ The world produces large amounts of data. Organising, analysing and producing va
 
 Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera Decentralized AI DAO framework can be described in three layers: (i) Web3 Commercialisation Models & Funding, (ii) Community, and (iii) Infrastructure (tools/libraries/integrations).
 
-We would like to explore a boost to integrate DAOhaus with Oceans market place. 
-This boost falls under **(i) Commercialisation & Funding:** layer.
+        We would like to explore a boost to integrate DAOhaus with Oceans market place. 
+        This boost falls under **(i) Commercialisation & Funding:** layer.
 
 ### (i) Commercialisation and Funding for independent AI teams: 
 Algovera is providing advice & tools on sustainable revenue AI models. E.g. publish datasets and AI models to Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and form a way towards sustainable revenue.
 
-Funding 
+**Funding** 
 Algovera is a community of diverse and independent AI teams (called Squads). These squads are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). 
 You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
@@ -59,7 +59,9 @@ Current tasks in the pipeline include:
    
     
 ## Resources
+    
     Algovera https://algovera.notion.site/algovera/Algovera-707678b772b9490097d2485db5f4a6e4
+    Algovera Decentralized AI DAO introduction and DAOhaus review and  https://github.com/silentspring30/dao-ai-framework/blob/4cc7b1a8b8166af9a13783e32cc53f4009a30375/daohaus_review.md
     DAOhaus https://daohaus.club/docs/users/intro-dao
     Moloch DAO V3 https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e
 
