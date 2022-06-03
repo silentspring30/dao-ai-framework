@@ -41,10 +41,9 @@ AI Model
 AI model:
 Data Sets
 
-# Bias: Historical, Aggregation, Measurement, Evaluation, Deployment and Representation
-# Fairness: Demographic parity / statistical parity, Equal accuracy, Group unaware / "Fairness through unawareness"
-
-# Model Cards
+### Bias: Historical, Aggregation, Measurement, Evaluation, Deployment and Representation
+### Fairness: Demographic parity / statistical parity, Equal accuracy, Group unaware / "Fairness through unawareness"
+### Model Cards
 
 
 
