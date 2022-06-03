@@ -49,8 +49,9 @@ Could you advice us on DAOhaus functionality and how we could develop a boost or
 We would like to invite, any community members who are interested in contributing to join our Design Thinking sessions and/reach out to us on discord.
 
 Current tasks in the pipeline include:
-    Advice on boost functionality spec
-    Solidity contributions guidance, code review, or audits of the boost codebase
+       Advice on boost - minion functionality spec
+       JavaScript SDK guidance
+       Solidity contributions guidance, code review, or audits of the boost codebase
     
 
 
