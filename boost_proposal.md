@@ -1,7 +1,9 @@
 # tl;dr
+A boost or minion for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [Oceanprotocol marketplace](https://oceanprotocol.com/) and earn royalities for the DAO members.
+
 ### Decentralized AI to Ocean marketplace DAOhaus boost or minion
 
-A boost or minion for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [Oceanprotocol marketplace](https://oceanprotocol.com/) and earn royalities for the DAO members.
+
 
 
 ## Problem
