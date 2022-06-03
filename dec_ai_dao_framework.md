@@ -25,7 +25,6 @@ I'd like to propose an extension to the Design Thinking process by adding the fo
 DAO development 
 - **Community**, where the goal is to understand who is represented in this DAO and is it actively seeking to integrate diversity in it's community events? 
 - **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation and continous onboarding of this DAO? E.g. reaching out to specific members of society.
-- 
 - **Plant-based Living**, what is the environmental impact of this DAO and are DAO members actively creating awarness around plant-based living?
 - **Commercial**, who is this DAO model renumerating and is it supporting the progress of decentralized AI and communities?
 
@@ -36,6 +35,19 @@ AI Model
 - **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful? Can it be deployed? Should it be disabled?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
+
+
+AI model:
+Ethics
+- Bias: Historical, Aggregation, Measurement 
+
+
+
+
+
+
+
+
 
 
 
@@ -64,3 +76,6 @@ A decentralized autonomous organization (DAO) is a community of people aligned b
 6. Component driven: Minions and boosts
 
 [Moloch DAO version 3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e) will bring new features such as the ability to make changes through proposals in settings e.g. voting period. 
+
+
+
