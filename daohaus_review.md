@@ -1,5 +1,101 @@
 # Development of a Decentralized AI DAO framework
 
+## tl;dr
+    - User interviews of Algovera Squads in how they use DAOhaus
+    - Results: 
+    - the teams like the core features such as treasury management
+    - But complained about UI, long proposal process, rigididy
+    - more training needed of DAO further functionality boost and minions 
+    such as snapshot gasless voting, wallet connect, storage connection IPFS or arweave.
+    
+    
+## User experience review of how Algovera is using DAOhaus
+
+This is a user experience design review of how Algovera DAO is currently using DAOhaus. It forms the basis of continuous research, development, prototyping and assumptions testing for a decentralized AI DAO framework.     
+
+## DAO product user experience research findings 
+
+### Review sprint 1 [27/05/ - 30/05/2022]
+For a quick review, 3 qualitative interview and a qualitative typeform survey was conducted.
+- Algovera team interviews
+- Squad Typeform: [Form](https://wuz5dw73wlf.typeform.com/to/ZO4OHzWi), 3 responses were received.
+
+Summary of different interviews:
+#### Question 1: How did you develop your requirements? Did you have a set of functionality requirements or similar?
+A: High-level criteria based on our own experience with different DAO platforms, desktop research, trial and error.
+
+**Criteria:**
+1. Fast, scalable and cheap voting: DAOhaus multiple network support: L2 Polygon, Gnosis chain etc. DAOhaus functions on 5 networks (Ethereum, Gnosis chain, Polygon, Arbitrum and Cello)
+2. Security, due to lack of blockchain security design pattern expertise in house: Ability to add Gnosis safe minion and other components based boosts features. 
+3. User friendly and excellent UI: Reduce friction during onboarding for data-scientists, who are not crypto-native. DAOhaus UI is slightly confusing and we like to explore if we could create own UI/front-end. Even experienced blockchain members struggled.
+
+#### Question 2: What's your intention for squads using DAOhaus?
+In order to get squads up to speed and autonomous quickly, Algovera's operations lead manually summons for each squad a DAO on DAOhaus. 
+The main purpose for each squad is:
+- Summon DAO manually (future with script)
+- Manage treasury 
+- Allocate % of shares for squad members
+- Manage future funding for squad
+- Manage voting and proposals
+- Create Gnosis safe and manage funds
+- Boost with Oceans protocol 
+- Earn dividends from datamodel 
+
+Analysis and recommendations: 
+Current squads have little experience in blockchain, DAOs and value of tokens. E.g. HAUS. and are not aware of features such as payroll etc.
+It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
+
+#### Question 3: Why are you using DAOhaus?
+Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon) but encountered the following problems: 
+1. Jan 2022, Polygon Aragon platform issues: Polygon - transactions failures, - incorrect gas fees 
+2. Due to the urgency to get to get our squads funded, Algovera then chose DAOhaus because it performed the best on polygon.
+3. We also liked the Gnosis safe minion features.
+4. We are really happy with DAOhaus so far, it's very really reliable. The support is very fast too. There are some UX/UI points.
+
+**Analysis**:
+Algovera tested out various DAO platforms themselves until arriving at DAOhaus. It would be good to provide more DAOhaus tutorials videos and product updates on youtube and twitter to allow people to make a quick comparison.
+
+#### Question 4: How are your squads using DAOhaus? Squads are small at the moment 3-4 people.
+ 
+1. Management of funds, main use case is: Receive funds and allocate shares. 
+2. 5% Algovera, remaining shares are split among squad.
+3. Transfers to wallet to convert to FIAT and send to bank accounts.
+4. Little proposal functionality is used, 2 proposals per month.
+
+**Analysis**: Interestingly, DAOhaus platform is mainly used for basic DAO functionality. Further research is needed why. Squads are not used to DAOs and are not aware of functionality: key feeback complex UI and besides monetization features don't give enough benefits. For future scale this would change.
+
+Again: It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
+E.g. minions, boosts e.g. training on payroll, disburse and product updates.
+
+#### Question 5: Any feedback for DAOhaus, how can they improve the product? What specific immediate features would decentralized AI team have?
+
+1. Secure proposal through member voting participating threshold >66%
+Due to security issues, squads requested if it is possible to make proposals more secure by implementing a minion quorum threshold of >66% of members participation have to vote before the proposals passes. (Note: Opposite functionality of quorum that expedites voting by min. voting member participation.)
+(This would avoid a member's ability to drain the treasury) 
+Safe gnosis minion can have a quorum setting however this needs to be created while summoning the gnosis safe and cannot be edited afterwards.
+
+- We encountered following problem: 
+Set up gnosis safe without quorum, then created a new gnosis safe with quorum but DAOhaus allowed same name and address of gnosis safe. This lead to the treasury double counting the funds. Minions cannot be deleted. 
+Workaround: Create new DAO, import funds and create safe minion with quorum while summoning it.
+
+- Apparently this feature of threshold of quorum is being in next DAOhaus update. Is this the case?
+
+2. Boost DAO with to decentralized storage such as IPFS and arweave link https://www.arweave.org/
+3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
+Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale. (Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.)
+
+3. Proposal voting process takes too many steps and gas costs involved for each step. Is the proposal voting process based on security? 
+Based on security.
+
+5. Integrate snapshot for voting, cheap gasless but based on on-chain assets.
+Boost by DAOhaus, Snapshot Proposals
+Snapshot is a popular gasless signal voting solution, used by projects such as Yearn, Balancer, Sushi. The Boost allows you to obtain signals via Snapshot from members for time-sensitive proposals. If you already have a Snapshot space set up, link the Snapshot space, and start running signal proposals
+
+6. Do safe minions support ragequit or only treasury?
+7. Could we create our own front-end to DAOhaus?
+
+
+
 
 ## User experience review of how Algovera is using DAOhaus
 
@@ -53,86 +149,7 @@ A decentralized autonomous organization (DAO) is a community of people aligned b
 
 [Moloch DAO version 3] (https://medium.com/pubdao/dao-framework-builder-moloch-launches-v3-at-ethdenver-1f3841c45a9e) will bring new features such as the ability to make changes through proposals in settings e.g. voting period. 
 
-## DAO product user experience research findings 
 
-### Review sprint 1 [27/05/ - 30/05/2022]
-For a quick review, 3 qualitative interview and a qualitative typeform survey was conducted.
-- Algovera team interviews
-- Squad Typeform: [Form](https://wuz5dw73wlf.typeform.com/to/ZO4OHzWi), 3 responses were received.
-
-Summary of different interviews:
-#### Question 1: How did you develop your requirements? Did you have a set of functionality requirements or similar?
-A: High-level criteria based on our own experience with different DAO platforms, desktop research, trial and error.
-
-**Criteria:**
-1. Fast, scalable and cheap voting: DAOhaus multiple network support: L2 Polygon, Gnosis chain etc. DAOhaus functions on 5 networks (Ethereum, Gnosis chain, Polygon, Arbitrum and Cello)
-2. Security, due to lack of blockchain security design pattern expertise in house: Ability to add Gnosis safe minion and other components based boosts features. 
-3. User friendly and excellent UI: Reduce friction during onboarding for data-scientists, who are not crypto-native. DAOhaus UI is slightly confusing and we like to explore if we could create own UI/front-end. Even experienced blockchain members struggled.
-
-#### Question 2: What's your intention for squads using DAOhaus?
-In order to get squads up to speed and autonomous quickly, Algovera's operations lead manually summons for each squad a DAO on DAOhaus. 
-The main purpose for each squad is:
-- Summon DAO manually (future with script)
-- Manage treasury 
-- Allocate % of shares for squad members
-- Manage future funding for squad
-- Manage voting and proposals
-- Create Gnosis safe and manage funds
-- Boost with Oceans protocol 
-- Earn dividends from datamodel 
-
-Analysis and recommendations: 
-Current squads have little experience in blockchain, DAOs and value of tokens. E.g. HAUS. and are not aware of features such as payroll etc.
-It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
-
-#### Question 3: Why are you using DAOhaus?
-Algovera tested several DAO platforms such as Aragon, Hive (also based on Aragon) but encountered the following problems: 
-1. Jan 2022, Polygon Aragon platform issues: Polygon - transactions failures, - incorrect gas fees 
-2. Due to the urgency to get to get our squads funded, Algovera then chose DAOhaus because it performed the best on polygon.
-3. We also liked the Gnosis safe minion features.
-4. We are really happy with DAOhaus so far, it's very really reliable. The support is very fast too. There are some UX/UI points.
-
-**Analysis**:
-Algovera tested out various DAO platforms themselves until arriving at DAOhaus. It would be good to provide more DAOhaus tutorials videos and product updates on youtube and twitter to allow people to make a quick comparison.
-
-#### Question 4: How are your squads using DAOhaus? Squads are small at the moment 3-4 people.
- 
-1. Management of funds, main use case is: Receive funds and allocate shares. 
-2. 5% Algovera, remaining shares are split among squad.
-3. Transfers to wallet to convert to FIAT and send to bank accounts.
-4. Little proposal functionality is used, 2 proposals per month.
-
-**Analysis**: Interestingly, DAOhaus platform is mainly used for basic DAO functionality. Further research is needed why. Squads are not used to and are not aware of functionality. Even core Algovera team is not using DAOhaus: key feeback is too complex UI.
-
-Again: It might be useful to create regular 20min DAO guide or drop in session for squads and product updates.
-E.g. minions, boosts e.g. training on payroll, disburse and product updates.
-
-#### Question 5: Any feedback for DAOhaus, how can they improve the product? What specific immediate features would decentralized AI team have?
-
-1. Secure proposal through member voting participating threshold >66%
-Due to security issues, squads requested if it is possible to make proposals more secure by implementing a minion quorum threshold of >66% of members participation have to vote before the proposals passes. (Note: Opposite functionality of quorum that expedites voting by min. voting member participation.)
-(This would avoid a member's ability to drain the treasury) 
-Safe gnosis minion can have a quorum setting however this needs to be created while summoning the gnosis safe and cannot be edited afterwards.
-
-- We encountered following problem: 
-Set up gnosis safe without quorum, then created a new gnosis safe with quorum but DAOhaus allowed same name and address of gnosis safe. This lead to the treasury double counting the funds. Minions cannot be deleted. 
-Workaround: Create new DAO, import funds and create safe minion with quorum while summoning it.
-
-- Apparently this feature of threshold of quorum is being in next DAOhaus update. Is this the case?
-
-2. Boost DAO with to decentralized storage such as IPFS and arweave link https://www.arweave.org/
-3. Boost DAO with ability to publish asset from DAO wallet e.g. Ocean marketplace
-Squads would like to publish data sets, AI Model and other assets from DAO wallet itself to receive royalties into treasury to Ocean marketplace. Ocean creates token, liquidity pool and lists it for sale. (Currently, one squad member had to publish the asset from his personal wallet and receives all the royalties. This clearly created trust issues.)
-
-3. Proposal voting process takes too many steps and gas costs involved for each step. Is the proposal voting process based on security? 
-Based on security.
-
-5. Integrate snapshot for voting, cheap gasless but based on on-chain assets.
-Boost by DAOhaus, Snapshot Proposals
-Snapshot is a popular gasless signal voting solution, used by projects such as Yearn, Balancer, Sushi. The Boost allows you to obtain signals via Snapshot from members for time-sensitive proposals. If you already have a Snapshot space set up, link the Snapshot space, and start running signal proposals
-
-6. Do safe minions support ragequit or only treasury?
-7. Could we create our own front-end to DAOhaus?
 
 
 
