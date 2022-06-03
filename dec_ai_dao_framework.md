@@ -36,13 +36,15 @@ AI Model
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
 
+# Ethics
 
 AI model:
 Data Sets
-Ethics
-- Bias: Historical, Aggregation, Measurement, Evaluation, Deployment and Representation
 
+# Bias: Historical, Aggregation, Measurement, Evaluation, Deployment and Representation
+# Fairness: Demographic parity / statistical parity, Equal accuracy, Group unaware / "Fairness through unawareness"
 
+# Model Cards
 
 
 
