@@ -1,15 +1,14 @@
-
+# tl;dr
 ### Decentralized AI to Ocean marketplace DAOhaus boost or minion
 
-A boost for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [Oceanprotocol marketplace](https://oceanprotocol.com/) and earn royalities for the DAO members.
+A boost or minion for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [Oceanprotocol marketplace](https://oceanprotocol.com/) and earn royalities for the DAO members.
 
 
 ## Problem
 The world produces large amounts of data. Organising, analysing and producing value and insights from this data has traditionally been performed by big tech companies who have the resources (data, talent & capital). The main benefactors of this value creation are a few key members of the company rather than the team that worked on the project. Centralisation of data science value creation in the hands of a few companies leads to stagnation of innovation and a lack of experimentation due to bureaucracy and a risk aversive culture.
 
 
-## Solution
-
+## Solution; decentralized AI
 Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera Decentralized AI DAO framework can be described in three layers: 
 - (i) Web3 Commercialisation Models & Funding, 
 - (ii) Community, and 
