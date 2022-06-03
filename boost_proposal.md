@@ -56,7 +56,7 @@ Current tasks in the pipeline include:
 ## Team
     Richard - Algovera - Oceans Ambassador
     Hithesh - Algovera
-    Silentspring - Algovera and DAOhaus contributor
+    Silentspring - Algovera, DAOhaus scholar 
     Oceans Contributor
     Solidity Developer
    
