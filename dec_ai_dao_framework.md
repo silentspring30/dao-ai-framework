@@ -38,8 +38,9 @@ AI Model
 
 
 AI model:
+Data Sets
 Ethics
-- Bias: Historical, Aggregation, Measurement 
+- Bias: Historical, Aggregation, Measurement, Evaluation, Deployment and Representation
 
 
 
