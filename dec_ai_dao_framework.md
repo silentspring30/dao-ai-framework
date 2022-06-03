@@ -2,22 +2,7 @@
 For the development of a Decentralized AI DAO framework, we conducted a user review of the how squads are currently using DAOhaus.
 It formed the basis of continuous research, development, prototyping and assumptions testing for a decentralized AI DAO framework.
 
-## DAOhaus foundation
-### DAOhaus framework based on MolochDAO framework
-### Design Thinking Framework 
-### Extension Decentralized AI DAO Lenses
-Graphic
-
-## Algovera UI
-- DAO UI 
-
-## Boosts
-- Boosts: DAOhaus wallet - already existing to ocean market place 
-- Boosts: DAO to DAO data sharing 
-- Boosts: DAOhaus decentralized data storage
 For the development of a Decentralized AI DAO framework, I'd like to propose to follow a [Design Thinking Framework](https://web.stanford.edu/~mshanks/MichaelShanks/files/509554.pdf).
-
-
 
 ## Development Approach
 Design Thinking is a framework for complex problem solving and has been widely applied by various disciplines e.g. Digital Product, Healthcare and Social innovation. As a methodology it has been popularized by [Tim Brown](https://designthinking.ideo.com/), founder of IDEO since 1978.
@@ -25,11 +10,11 @@ Design Thinking is a framework for complex problem solving and has been widely a
 Design thinking is a non-linear, iterative process that cross-disciplinary teams use to firstly understand users and their context to address ill-defined or unknown problems. It is  particularly useful in developing products and services with a high factor of uncertainty and within a dynamic and rapidly evolving environment such as web3 specificly: for the development of a Decentralized Autonomous Organizations Framework for Decentralized Artificial Intelligence.
 
 Design Thinking involves five phases — Empathize, Define, Ideate, Prototype and Test—it ([Design Thinking Phases](https://www.interaction-design.org/literature/topics/design-thinking))
-1. Empathy or discovery, where the goal is to empathize with the audience for who you are designing with/for, 
-2. Define or interpretation, which involves describing the point of view and needs of the individual, 
-3. Ideate or ideation, that includes brainstorming to produce as many creative solutions as possible,
-4. Prototype or experimentation, where several solutions are developed with users to be able to manipulate and identify flaws,
-5. Test or evolution, which includes sharing the prototype with the target users to obtain observations, feedback and to further iterate.
+1. **Empathy** or discovery, where the goal is to empathize with the audience for who you are designing with/for, 
+2. **Define** or interpretation, which involves describing the point of view and needs of the individual, 
+3. **Ideate** or ideation, that includes brainstorming to produce as many creative solutions as possible,
+4. **Prototype** or experimentation, where several solutions are developed with users to be able to manipulate and identify flaws,
+5. **Test** or evolution, which includes sharing the prototype with the target users to obtain observations, feedback and to further iterate.
 
 Design thinking allows for bidirectional movement, this flexible process fosters iterative exploration of solutions, continual refinement of the problem space, and increased understanding of user's latent needs. 
 
