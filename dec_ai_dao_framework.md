@@ -20,11 +20,23 @@ Design thinking allows for bidirectional movement, this flexible process fosters
 
 Diversity, cross-disciplinary collaboration, challenging viewpoints and varied socioeconomic backgrounds in teams are highly valued and allow to develop creative solutions that are beneficial to society at large. 
 
-I'd like to propose an extension to the Design Thinking process by adding the following assumption testing "lenses" to Decentralized AI models and DAOs:
+I'd like to propose an extension to the Design Thinking process by adding the following assumption testing "lenses" to Decentralized AI models and the development of the DAO:
+
+DAO development 
+- **Community**, where the goal is to understand who is represented in this DAO and is it actively seeking to integrate diversity in it's community events? 
+- **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the onboarding and creation of this DAO?
+- **Plant-based Living**, what is the environmental impact of this DAO and are DAO members actively creating awarness around plant-based living?
+- **Commercial**, who is this DAO model renumerating and is it supporting the progress of decentralized AI and communities?
+
+If the community of the DAO is build in this way, then these values should be reflected in the development in the AI model development.
+
+AI Model
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
 - **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation of this data or model, what bias exist and is it harmful? Can it be deployed? Should it be disabled?
 - **Plant-based Living**, what is the environmental impact of this data and model? Could it be reduced?
 - **Commercial**, who is this model renumerating and is it supporting the progress of decentralized AI and communities?
+
+
 
 
 ## About Algovera DAO
