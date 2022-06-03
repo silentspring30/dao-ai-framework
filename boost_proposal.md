@@ -1,5 +1,5 @@
 
-### Decentralized AI to Ocean marketplace DAOhaus boost
+### Decentralized AI to Ocean marketplace DAOhaus boost or minion
 
 A boost for AI/ML DAOs to provide the ability to publish assets such as data sets and AI models to [Oceanprotocol marketplace](https://oceanprotocol.com/) and earn royalities for the DAO members.
 
@@ -10,17 +10,18 @@ The world produces large amounts of data. Organising, analysing and producing va
 
 ## Solution
 
-Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera Decentralized AI DAO framework can be described in three layers: (i) Web3 Commercialisation Models & Funding, (ii) Community, and (iii) Infrastructure (tools/libraries/integrations).
+Algovera is a collective of diverse people working to facilitate and accelerate the development of decentralised AI products that benefit society. We do this through empowering diverse AI teams with tools to work for themselves on their own ideas and keep ownership of their creations. Algovera Decentralized AI DAO framework can be described in three layers: 
+- (i) Web3 Commercialisation Models & Funding, 
+- (ii) Community, and 
+- (iii) Infrastructure (tools/libraries/integrations).
 
-        We would like to explore a boost to integrate DAOhaus with Oceans marketplace. 
-        This boost falls under **(i) Commercialisation & Funding:** layer.
+        We would like to explore a boost or minion development to integrate DAOhaus with Oceans marketplace. 
+        
 
+### More about Algovera
 ### (i) Commercialisation and Funding for independent AI teams: 
-Algovera is providing advice & tools on sustainable revenue AI models. E.g. publish datasets and AI models to Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and form a way towards sustainable revenue.
-
-**Funding** 
-Algovera is a community of diverse and independent AI teams (called Squads). These squads are funded through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus, previously Aragon). 
-You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
+Algovera is providing advice & tools for sustainable revenue AI models. E.g. publish datasets and AI models to Oceans Market place and receive royalities. This will enable AI teams to receive renumerations based on usage of their model and form a way towards sustainable revenue.
+Algovera funds independent AI teams - squads through the Algovera Micro-Grants Program. Proposals are submitted on Discourse. We set up a DAO for each of these teams (currently using DAOhaus). You can check out our full list of Squads and links to the respective DAOs here. We support and train our squads in web3 governing, treasury and revenue models through the DAO and Web3 sustainability/growth model monetization of data sets and AI models.
 
 ### (ii) Decentralized Ethical AI community events: 
 We run study groups, discord community, reading groups, discussions, hacking sessions, hackathons, design thinking groups and IRL events.
@@ -32,31 +33,32 @@ We want to make it as easy as possible for individuals to get from idea to deplo
 
 ## Overview
 
-## Boost 
-    DAOhaus ability to store datasets and AI models
-    DAOhaus connect to oceans market place
+## Minion or Boost 
+    DAOhaus ability to store datasets and AI models - IPFS or airweave
+    DAOhaus ability to connect to oceansmarket place 
     Publish data set
     Publish AI model
-    Earn tokens
+    Earn tokens and disperse to DAO members
     Pull usage data model and AI model data back to DAO UI dashboard
     
   
 ## Ask
-Could you advice us on DAOhaus functionality and how we could develop a boost?
+Could you advice us on DAOhaus functionality and how we could develop a boost or minion?
 
 ## Help
 We would like to invite, any community members who are interested in contributing to join our Design Thinking sessions and/reach out to us on discord.
 
 Current tasks in the pipeline include:
     Advice on boost functionality spec
-    Solidity contributions, code review, or audits of the boost codebase
+    Solidity contributions guidance, code review, or audits of the boost codebase
     
 
 
 ## Team
+    Silentspring - Algovera, DAOhaus scholar 
     Richard - Algovera - Oceans Ambassador
     Hithesh - Algovera
-    Silentspring - Algovera, DAOhaus scholar 
+    Keaton - Algovera
     Oceans Contributor
     Solidity Developer
    
