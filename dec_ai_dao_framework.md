@@ -1,5 +1,6 @@
 # Decentralized AI DAO Framework
-
+For the development of a Decentralized AI DAO framework, we conducted a user review of the how squads are currently using DAOhaus.
+It formed the basis of continuous research, development, prototyping and assumptions testing for a decentralized AI DAO framework.
 
 ## DAOhaus foundation
 ### DAOhaus framework based on MolochDAO framework
