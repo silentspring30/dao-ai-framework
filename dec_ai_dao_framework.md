@@ -24,11 +24,12 @@ I'd like to propose an extension to the Design Thinking process by adding the fo
 
 DAO development 
 - **Community**, where the goal is to understand who is represented in this DAO and is it actively seeking to integrate diversity in it's community events? 
-- **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the onboarding and creation of this DAO?
+- **Ethics**, this includes if various backgrounds (socioeconomic, gender, race and data rich/poor) have been considered in the creation and continous onboarding of this DAO? E.g. reaching out to specific members of society.
+- 
 - **Plant-based Living**, what is the environmental impact of this DAO and are DAO members actively creating awarness around plant-based living?
 - **Commercial**, who is this DAO model renumerating and is it supporting the progress of decentralized AI and communities?
 
-If the community of the DAO is build in this way, then these values should be reflected in the development in the AI model development.
+If the community of the DAO is build in this way, then these values should be reflected in the development of the AI model development.
 
 AI Model
 - **Community**, where the goal is to understand which communities the AI model is impacting? 
