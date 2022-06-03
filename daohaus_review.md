@@ -138,15 +138,8 @@ Snapshot is a popular gasless signal voting solution, used by projects such as Y
 
 ## Decentralized DAO framework sprint 2 [31/05/ - 03/07/2022]
 - Plan/setup further interviews with 2 squads 
-- Share typeform with squads again and wider AI community
 - Plan design thinking sessions with community
 - Make call for diverse team for design thinking sessions
-
-
-
-
-
-
 
 
 
